@@ -14,6 +14,13 @@
 ---
 This project aims to provide insights into the cycling patterns of the both annual rgistered  and casual memebers over the past couple of years of Cyclistic, a bike share company in Chicago. By analyzing these riders cycling patterns, i seek to identify trends, make data-driven recommendations to increase the revenue,gain a deeper understanding of the different type of riders and their choices and maximize the number of annual memberships.
 
+
+
+<img width="332" alt="Screenshot Ratio" src="https://github.com/KunleOrimz/Cyclistics-Trip-Data-Analysis/assets/135448063/6b6c225b-75c5-4279-834c-dd5fd53ad70e">
+
+
+
+
 ### Data Sources
 This analysis use Cyclistic’s historical trip data to analyze and identify trends. The previous 12 months of Cyclistic trip data was made available and downloaded (Note: The datasets have a different name because Cyclistic is a fictional company. For the purposes of this case study, the datasets are appropriate and it enabled me to answer the business questions. The data has been made available by Motivate International Inc.license.) This is public data was used to explore how different customer uses Cyclistic bikes. Kindly note that Data-privacy issues prohibit me from using riders’ personally identifiable information
 
@@ -41,6 +48,17 @@ EDA involved exploring the sales data to answer key questions, such as:
 Excel power query was used in formating and analyzing the datasets, extra columns were added, surplus column not needed for the analysis was deleted and it was loaded onto powerBI for further analysis and data visualization preparation
 
 ### Results/Findings
+
+
+<img width="672" alt="Monthly ride duration" src="https://github.com/KunleOrimz/Cyclistics-Trip-Data-Analysis/assets/135448063/c2affea6-6595-4f28-9362-2bc1b74c3d57">
+
+<img width="668" alt="Screenshot 2023-09-14 180858" src="https://github.com/KunleOrimz/Cyclistics-Trip-Data-Analysis/assets/135448063/6a7fb03d-7e11-43d5-b3ac-b7f99a7bd263">
+
+
+
+
+
+
 The analysis results are summarized as follows:
 1. Cyclistics as a company has more annual registered members than the casual members
 2. Registered members and the casual members both ride during weekdays but registered members ride mostly during the week 
