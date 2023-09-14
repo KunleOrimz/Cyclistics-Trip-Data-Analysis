@@ -11,6 +11,7 @@
  - [Limitations](#limitations)
  - [References](#references)
 ### Project Overview
+---
 This project aims to provide insights into the cycling patterns of the both annual rgistered  and casual memebers over the past couple of years of Cyclistic, a bike share company in Chicago. By analyzing these riders cycling patterns, i seek to identify trends, make data-driven recommendations to increase the revenue,gain a deeper understanding of the different type of riders and their choices and maximize the number of annual memberships.
 
 ### Data Sources
@@ -61,7 +62,7 @@ More marketing activities should be targeted at the casual riders during weekend
 I had to convert all negative values on the 'ride_duration' column during  data cleaning to positive values as these would have affected the accuracy of my conclusion and may also give wrong outcomes for data visaulisation but formimg wrong outliers. The company name 'Cyclistics' is fictitious, it was named such solely for this study.
 
 ### References
-1. Google Professional Certificate of Data Analytics(Capstone Project)
+1. Google Professional Certificate of Data Analytics (*Capstone Project*)
 2. [Cyclistic trip dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 
